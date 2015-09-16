@@ -1,5 +1,5 @@
 {
-  "name": "angular-timepicker",
+  "name": "angular-timepicker-r",
   "version": "1.0.0",
   "main": [
   	"./build/themes/default.css",

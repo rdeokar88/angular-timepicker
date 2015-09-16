@@ -1,12 +1,12 @@
 {
-  "name": "angular-timepicker",
+  "name": "angular-timepicker-r",
   "version": "1.0.0",
-  "title": "angular-timepicker",
+  "title": "angular-timepicker-r",
   "description": "The mobile-friendly, responsive, and lightweight Angular date & time input picker.",
   "author": {
     "name": "Rohan",
     "email": "rd7686@gmail.com",
-    "url": "https://github.com/rdeokar88/angular-timepicker"
+    "url": "https://github.com/rdeokar88/"
   },
   "licenses": [
     {
