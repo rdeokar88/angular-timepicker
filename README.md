@@ -1,4 +1,4 @@
-# angular-datepicker
+# angular-timepicker
 
 **Warning**: This project is no longer maintained. Use at your own risk!
 
@@ -10,7 +10,7 @@ This is basically a [pickadate.js](https://github.com/amsul/pickadate.js) fork t
 
 ### Bower
 
-`bower install angular-native-picker`
+`bower install angular-timepicker`
 
 ### Usage
 
