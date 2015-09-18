@@ -977,11 +977,11 @@ angular.module("angular-datepicker", []).directive("pickADate", function() {
             }
 
             //updateValue(scope.pickATime);
-            scope.$watch('pickATime', function (newValue, oldValue) {
-                if (newValue === oldValue)
-                    return;
-                updateValue(newValue);
-            }, true);
+            /*scope.$watch('pickATime', function (newValue, oldValue) {
+             if (newValue === oldValue)
+             return;
+             updateValue(newValue);
+             }, true);*/
         }
     };
 });
